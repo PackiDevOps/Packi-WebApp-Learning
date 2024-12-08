@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/packiyarajazure0606/d5b3a0aa-404e-4bc9-8955-e25be42e184c/c4252296-5c74-4309-bf4f-8cb9048a85a3/_apis/work/boardbadge/4275d9c6-14ba-4a88-a728-9f9c419c30a5)](https://dev.azure.com/packiyarajazure0606/d5b3a0aa-404e-4bc9-8955-e25be42e184c/_boards/board/t/c4252296-5c74-4309-bf4f-8cb9048a85a3/Microsoft.RequirementCategory)
 # WebApplication2
